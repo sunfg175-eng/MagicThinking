@@ -25,3 +25,10 @@
     音频切割 FFmpeg
     翻译 deep-translator 相对稳定
 
+4.实时股票检测软件
+数据来源
+https://www.joinquant.com/
+https://tushare.pro/register
+AKShare
+
+
